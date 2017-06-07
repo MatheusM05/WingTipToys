@@ -1,0 +1,129 @@
+c:\users\mek\documents\visual studio 2015\Projects\WingTipToys\WingTipToys\bin\ApplicationInsights.config
+c:\users\mek\documents\visual studio 2015\Projects\WingTipToys\WingTipToys\bin\roslyn\csc.exe
+c:\users\mek\documents\visual studio 2015\Projects\WingTipToys\WingTipToys\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\mek\documents\visual studio 2015\Projects\WingTipToys\WingTipToys\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\mek\documents\visual studio 2015\Projects\WingTipToys\WingTipToys\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\mek\documents\visual studio 2015\Projects\WingTipToys\WingTipToys\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\mek\documents\visual studio 2015\Projects\WingTipToys\WingTipToys\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\mek\documents\visual studio 2015\Projects\WingTipToys\WingTipToys\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\mek\documents\visual studio 2015\Projects\WingTipToys\WingTipToys\bin\roslyn\System.Collections.Immutable.dll
+c:\users\mek\documents\visual studio 2015\Projects\WingTipToys\WingTipToys\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\mek\documents\visual studio 2015\Projects\WingTipToys\WingTipToys\bin\roslyn\vbc.exe
+c:\users\mek\documents\visual studio 2015\Projects\WingTipToys\WingTipToys\bin\roslyn\VBCSCompiler.exe
+c:\users\mek\documents\visual studio 2015\Projects\WingTipToys\WingTipToys\bin\roslyn\VBCSCompiler.exe.config
+c:\users\mek\documents\visual studio 2015\Projects\WingTipToys\WingTipToys\bin\WingTipToys.dll.config
+c:\users\mek\documents\visual studio 2015\Projects\WingTipToys\WingTipToys\bin\WingTipToys.dll
+c:\users\mek\documents\visual studio 2015\Projects\WingTipToys\WingTipToys\bin\WingTipToys.pdb
+c:\users\mek\documents\visual studio 2015\Projects\WingTipToys\WingTipToys\bin\EntityFramework.dll
+c:\users\mek\documents\visual studio 2015\Projects\WingTipToys\WingTipToys\bin\EntityFramework.SqlServer.dll
+c:\users\mek\documents\visual studio 2015\Projects\WingTipToys\WingTipToys\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\mek\documents\visual studio 2015\Projects\WingTipToys\WingTipToys\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\mek\documents\visual studio 2015\Projects\WingTipToys\WingTipToys\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\mek\documents\visual studio 2015\Projects\WingTipToys\WingTipToys\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\mek\documents\visual studio 2015\Projects\WingTipToys\WingTipToys\bin\Microsoft.AI.Web.dll
+c:\users\mek\documents\visual studio 2015\Projects\WingTipToys\WingTipToys\bin\Microsoft.AI.WindowsServer.dll
+c:\users\mek\documents\visual studio 2015\Projects\WingTipToys\WingTipToys\bin\Microsoft.ApplicationInsights.dll
+c:\users\mek\documents\visual studio 2015\Projects\WingTipToys\WingTipToys\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\mek\documents\visual studio 2015\Projects\WingTipToys\WingTipToys\bin\EntityFramework.xml
+c:\users\mek\documents\visual studio 2015\Projects\WingTipToys\WingTipToys\bin\EntityFramework.SqlServer.xml
+c:\users\mek\documents\visual studio 2015\Projects\WingTipToys\WingTipToys\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\mek\documents\visual studio 2015\Projects\WingTipToys\WingTipToys\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\mek\documents\visual studio 2015\Projects\WingTipToys\WingTipToys\bin\Microsoft.AI.Web.xml
+c:\users\mek\documents\visual studio 2015\Projects\WingTipToys\WingTipToys\bin\Microsoft.AI.WindowsServer.xml
+c:\users\mek\documents\visual studio 2015\Projects\WingTipToys\WingTipToys\bin\Microsoft.ApplicationInsights.xml
+c:\users\mek\documents\visual studio 2015\Projects\WingTipToys\WingTipToys\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\mek\documents\visual studio 2015\Projects\WingTipToys\WingTipToys\obj\Debug\WingTipToys.dll
+c:\users\mek\documents\visual studio 2015\Projects\WingTipToys\WingTipToys\obj\Debug\WingTipToys.pdb
+C:\Users\Mek\documents\visual studio 2015\Projects\WingTipToys\WingTipToys\obj\Debug\WingTipToys.Migrations.Inicial.resources
+C:\Users\Mek\documents\visual studio 2015\Projects\WingTipToys\WingTipToys\obj\Debug\WingTipToys.csproj.GenerateResource.Cache
+C:\Users\Mek\documents\visual studio 2015\Projects\WingTipToys\WingTipToys\obj\Debug\WingTipToys.csprojResolveAssemblyReference.cache
+C:\Users\Mek\documents\visual studio 2015\Projects\WingTipToys\WingTipToys\obj\Debug\WingTipToys.Migrations.AddItensVenda.resources
+C:\Users\Mek\Dropbox\Documentos\CTUP\Aulas\7P - Desenvolvimento de Sistemas Com ASP.NET\Workspace\WingTipToys\WingTipToys\bin\ApplicationInsights.config
+C:\Users\Mek\Dropbox\Documentos\CTUP\Aulas\7P - Desenvolvimento de Sistemas Com ASP.NET\Workspace\WingTipToys\WingTipToys\bin\roslyn\csc.exe
+C:\Users\Mek\Dropbox\Documentos\CTUP\Aulas\7P - Desenvolvimento de Sistemas Com ASP.NET\Workspace\WingTipToys\WingTipToys\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Mek\Dropbox\Documentos\CTUP\Aulas\7P - Desenvolvimento de Sistemas Com ASP.NET\Workspace\WingTipToys\WingTipToys\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Mek\Dropbox\Documentos\CTUP\Aulas\7P - Desenvolvimento de Sistemas Com ASP.NET\Workspace\WingTipToys\WingTipToys\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Mek\Dropbox\Documentos\CTUP\Aulas\7P - Desenvolvimento de Sistemas Com ASP.NET\Workspace\WingTipToys\WingTipToys\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Mek\Dropbox\Documentos\CTUP\Aulas\7P - Desenvolvimento de Sistemas Com ASP.NET\Workspace\WingTipToys\WingTipToys\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Mek\Dropbox\Documentos\CTUP\Aulas\7P - Desenvolvimento de Sistemas Com ASP.NET\Workspace\WingTipToys\WingTipToys\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Mek\Dropbox\Documentos\CTUP\Aulas\7P - Desenvolvimento de Sistemas Com ASP.NET\Workspace\WingTipToys\WingTipToys\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Mek\Dropbox\Documentos\CTUP\Aulas\7P - Desenvolvimento de Sistemas Com ASP.NET\Workspace\WingTipToys\WingTipToys\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Mek\Dropbox\Documentos\CTUP\Aulas\7P - Desenvolvimento de Sistemas Com ASP.NET\Workspace\WingTipToys\WingTipToys\bin\roslyn\vbc.exe
+C:\Users\Mek\Dropbox\Documentos\CTUP\Aulas\7P - Desenvolvimento de Sistemas Com ASP.NET\Workspace\WingTipToys\WingTipToys\bin\roslyn\VBCSCompiler.exe
+C:\Users\Mek\Dropbox\Documentos\CTUP\Aulas\7P - Desenvolvimento de Sistemas Com ASP.NET\Workspace\WingTipToys\WingTipToys\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Mek\Dropbox\Documentos\CTUP\Aulas\7P - Desenvolvimento de Sistemas Com ASP.NET\Workspace\WingTipToys\WingTipToys\bin\WingTipToys.dll.config
+C:\Users\Mek\Dropbox\Documentos\CTUP\Aulas\7P - Desenvolvimento de Sistemas Com ASP.NET\Workspace\WingTipToys\WingTipToys\bin\WingTipToys.dll
+C:\Users\Mek\Dropbox\Documentos\CTUP\Aulas\7P - Desenvolvimento de Sistemas Com ASP.NET\Workspace\WingTipToys\WingTipToys\bin\WingTipToys.pdb
+C:\Users\Mek\Dropbox\Documentos\CTUP\Aulas\7P - Desenvolvimento de Sistemas Com ASP.NET\Workspace\WingTipToys\WingTipToys\bin\EntityFramework.dll
+C:\Users\Mek\Dropbox\Documentos\CTUP\Aulas\7P - Desenvolvimento de Sistemas Com ASP.NET\Workspace\WingTipToys\WingTipToys\bin\EntityFramework.SqlServer.dll
+C:\Users\Mek\Dropbox\Documentos\CTUP\Aulas\7P - Desenvolvimento de Sistemas Com ASP.NET\Workspace\WingTipToys\WingTipToys\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Mek\Dropbox\Documentos\CTUP\Aulas\7P - Desenvolvimento de Sistemas Com ASP.NET\Workspace\WingTipToys\WingTipToys\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Mek\Dropbox\Documentos\CTUP\Aulas\7P - Desenvolvimento de Sistemas Com ASP.NET\Workspace\WingTipToys\WingTipToys\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Mek\Dropbox\Documentos\CTUP\Aulas\7P - Desenvolvimento de Sistemas Com ASP.NET\Workspace\WingTipToys\WingTipToys\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Mek\Dropbox\Documentos\CTUP\Aulas\7P - Desenvolvimento de Sistemas Com ASP.NET\Workspace\WingTipToys\WingTipToys\bin\Microsoft.AI.Web.dll
+C:\Users\Mek\Dropbox\Documentos\CTUP\Aulas\7P - Desenvolvimento de Sistemas Com ASP.NET\Workspace\WingTipToys\WingTipToys\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Mek\Dropbox\Documentos\CTUP\Aulas\7P - Desenvolvimento de Sistemas Com ASP.NET\Workspace\WingTipToys\WingTipToys\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Mek\Dropbox\Documentos\CTUP\Aulas\7P - Desenvolvimento de Sistemas Com ASP.NET\Workspace\WingTipToys\WingTipToys\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Mek\Dropbox\Documentos\CTUP\Aulas\7P - Desenvolvimento de Sistemas Com ASP.NET\Workspace\WingTipToys\WingTipToys\bin\EntityFramework.xml
+C:\Users\Mek\Dropbox\Documentos\CTUP\Aulas\7P - Desenvolvimento de Sistemas Com ASP.NET\Workspace\WingTipToys\WingTipToys\bin\EntityFramework.SqlServer.xml
+C:\Users\Mek\Dropbox\Documentos\CTUP\Aulas\7P - Desenvolvimento de Sistemas Com ASP.NET\Workspace\WingTipToys\WingTipToys\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Mek\Dropbox\Documentos\CTUP\Aulas\7P - Desenvolvimento de Sistemas Com ASP.NET\Workspace\WingTipToys\WingTipToys\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Mek\Dropbox\Documentos\CTUP\Aulas\7P - Desenvolvimento de Sistemas Com ASP.NET\Workspace\WingTipToys\WingTipToys\bin\Microsoft.AI.Web.xml
+C:\Users\Mek\Dropbox\Documentos\CTUP\Aulas\7P - Desenvolvimento de Sistemas Com ASP.NET\Workspace\WingTipToys\WingTipToys\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Mek\Dropbox\Documentos\CTUP\Aulas\7P - Desenvolvimento de Sistemas Com ASP.NET\Workspace\WingTipToys\WingTipToys\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Mek\Dropbox\Documentos\CTUP\Aulas\7P - Desenvolvimento de Sistemas Com ASP.NET\Workspace\WingTipToys\WingTipToys\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Mek\Dropbox\Documentos\CTUP\Aulas\7P - Desenvolvimento de Sistemas Com ASP.NET\Workspace\WingTipToys\WingTipToys\obj\Debug\WingTipToys.csprojResolveAssemblyReference.cache
+C:\Users\Mek\Dropbox\Documentos\CTUP\Aulas\7P - Desenvolvimento de Sistemas Com ASP.NET\Workspace\WingTipToys\WingTipToys\obj\Debug\WingTipToys.Migrations.Inicial.resources
+C:\Users\Mek\Dropbox\Documentos\CTUP\Aulas\7P - Desenvolvimento de Sistemas Com ASP.NET\Workspace\WingTipToys\WingTipToys\obj\Debug\WingTipToys.Migrations.AddItensVenda.resources
+C:\Users\Mek\Dropbox\Documentos\CTUP\Aulas\7P - Desenvolvimento de Sistemas Com ASP.NET\Workspace\WingTipToys\WingTipToys\obj\Debug\WingTipToys.csproj.GenerateResource.Cache
+C:\Users\Mek\Dropbox\Documentos\CTUP\Aulas\7P - Desenvolvimento de Sistemas Com ASP.NET\Workspace\WingTipToys\WingTipToys\obj\Debug\WingTipToys.dll
+C:\Users\Mek\Dropbox\Documentos\CTUP\Aulas\7P - Desenvolvimento de Sistemas Com ASP.NET\Workspace\WingTipToys\WingTipToys\obj\Debug\WingTipToys.pdb
+C:\Users\Mek\Dropbox\Documentos\CTUP\Aulas\7P - Desenvolvimento de Sistemas Com ASP.NET\Workspace\WingTipToys\WingTipToys\obj\Debug\WingTipToys.Migrations.AddTableCliente.resources
+C:\Users\Mek\Dropbox\Documentos\CTUP\Aulas\7P - Desenvolvimento de Sistemas Com ASP.NET\Workspace\WingTipToys\WingTipToys\obj\Debug\WingTipToys.Migrations.UptadeTableClienteAddTelefone.resources
+C:\Users\Mek\Dropbox\Documentos\CTUP\Aulas\7P - Desenvolvimento de Sistemas Com ASP.NET\Workspace\WingTipToys\WingTipToys\obj\Debug\WingTipToys.Migrations.UpdateTableClienteUpdateCarrinhoId.resources
+C:\Users\Mek\Dropbox\Documentos\CTUP\Aulas\7P - Desenvolvimento de Sistemas Com ASP.NET\Workspace\WingTipToys\WingTipToys\obj\Debug\WingTipToys.Migrations.AddTableVenda.resources
+C:\Users\Mek\Dropbox\Documentos\CTUP\Aulas\7P - Desenvolvimento de Sistemas Com ASP.NET\Workspace\WingTipToys\WingTipToys\obj\Debug\WingTipToys.Migrations.UpdateTableVendaAddData.resources
+C:\Users\mathe\Dropbox\Documentos\CTUP\Aulas\7P - Desenvolvimento de Sistemas Com ASP.NET\Workspace\WingTipToys\WingTipToys\bin\ApplicationInsights.config
+C:\Users\mathe\Dropbox\Documentos\CTUP\Aulas\7P - Desenvolvimento de Sistemas Com ASP.NET\Workspace\WingTipToys\WingTipToys\bin\roslyn\csc.exe
+C:\Users\mathe\Dropbox\Documentos\CTUP\Aulas\7P - Desenvolvimento de Sistemas Com ASP.NET\Workspace\WingTipToys\WingTipToys\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\mathe\Dropbox\Documentos\CTUP\Aulas\7P - Desenvolvimento de Sistemas Com ASP.NET\Workspace\WingTipToys\WingTipToys\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mathe\Dropbox\Documentos\CTUP\Aulas\7P - Desenvolvimento de Sistemas Com ASP.NET\Workspace\WingTipToys\WingTipToys\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\mathe\Dropbox\Documentos\CTUP\Aulas\7P - Desenvolvimento de Sistemas Com ASP.NET\Workspace\WingTipToys\WingTipToys\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\mathe\Dropbox\Documentos\CTUP\Aulas\7P - Desenvolvimento de Sistemas Com ASP.NET\Workspace\WingTipToys\WingTipToys\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\mathe\Dropbox\Documentos\CTUP\Aulas\7P - Desenvolvimento de Sistemas Com ASP.NET\Workspace\WingTipToys\WingTipToys\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\mathe\Dropbox\Documentos\CTUP\Aulas\7P - Desenvolvimento de Sistemas Com ASP.NET\Workspace\WingTipToys\WingTipToys\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\mathe\Dropbox\Documentos\CTUP\Aulas\7P - Desenvolvimento de Sistemas Com ASP.NET\Workspace\WingTipToys\WingTipToys\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\mathe\Dropbox\Documentos\CTUP\Aulas\7P - Desenvolvimento de Sistemas Com ASP.NET\Workspace\WingTipToys\WingTipToys\bin\roslyn\vbc.exe
+C:\Users\mathe\Dropbox\Documentos\CTUP\Aulas\7P - Desenvolvimento de Sistemas Com ASP.NET\Workspace\WingTipToys\WingTipToys\bin\roslyn\VBCSCompiler.exe
+C:\Users\mathe\Dropbox\Documentos\CTUP\Aulas\7P - Desenvolvimento de Sistemas Com ASP.NET\Workspace\WingTipToys\WingTipToys\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\mathe\Dropbox\Documentos\CTUP\Aulas\7P - Desenvolvimento de Sistemas Com ASP.NET\Workspace\WingTipToys\WingTipToys\bin\WingTipToys.dll.config
+C:\Users\mathe\Dropbox\Documentos\CTUP\Aulas\7P - Desenvolvimento de Sistemas Com ASP.NET\Workspace\WingTipToys\WingTipToys\bin\WingTipToys.dll
+C:\Users\mathe\Dropbox\Documentos\CTUP\Aulas\7P - Desenvolvimento de Sistemas Com ASP.NET\Workspace\WingTipToys\WingTipToys\bin\WingTipToys.pdb
+C:\Users\mathe\Dropbox\Documentos\CTUP\Aulas\7P - Desenvolvimento de Sistemas Com ASP.NET\Workspace\WingTipToys\WingTipToys\bin\EntityFramework.dll
+C:\Users\mathe\Dropbox\Documentos\CTUP\Aulas\7P - Desenvolvimento de Sistemas Com ASP.NET\Workspace\WingTipToys\WingTipToys\bin\EntityFramework.SqlServer.dll
+C:\Users\mathe\Dropbox\Documentos\CTUP\Aulas\7P - Desenvolvimento de Sistemas Com ASP.NET\Workspace\WingTipToys\WingTipToys\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\mathe\Dropbox\Documentos\CTUP\Aulas\7P - Desenvolvimento de Sistemas Com ASP.NET\Workspace\WingTipToys\WingTipToys\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\mathe\Dropbox\Documentos\CTUP\Aulas\7P - Desenvolvimento de Sistemas Com ASP.NET\Workspace\WingTipToys\WingTipToys\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\mathe\Dropbox\Documentos\CTUP\Aulas\7P - Desenvolvimento de Sistemas Com ASP.NET\Workspace\WingTipToys\WingTipToys\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\mathe\Dropbox\Documentos\CTUP\Aulas\7P - Desenvolvimento de Sistemas Com ASP.NET\Workspace\WingTipToys\WingTipToys\bin\Microsoft.AI.Web.dll
+C:\Users\mathe\Dropbox\Documentos\CTUP\Aulas\7P - Desenvolvimento de Sistemas Com ASP.NET\Workspace\WingTipToys\WingTipToys\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\mathe\Dropbox\Documentos\CTUP\Aulas\7P - Desenvolvimento de Sistemas Com ASP.NET\Workspace\WingTipToys\WingTipToys\bin\Microsoft.ApplicationInsights.dll
+C:\Users\mathe\Dropbox\Documentos\CTUP\Aulas\7P - Desenvolvimento de Sistemas Com ASP.NET\Workspace\WingTipToys\WingTipToys\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\mathe\Dropbox\Documentos\CTUP\Aulas\7P - Desenvolvimento de Sistemas Com ASP.NET\Workspace\WingTipToys\WingTipToys\bin\EntityFramework.xml
+C:\Users\mathe\Dropbox\Documentos\CTUP\Aulas\7P - Desenvolvimento de Sistemas Com ASP.NET\Workspace\WingTipToys\WingTipToys\bin\EntityFramework.SqlServer.xml
+C:\Users\mathe\Dropbox\Documentos\CTUP\Aulas\7P - Desenvolvimento de Sistemas Com ASP.NET\Workspace\WingTipToys\WingTipToys\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\mathe\Dropbox\Documentos\CTUP\Aulas\7P - Desenvolvimento de Sistemas Com ASP.NET\Workspace\WingTipToys\WingTipToys\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\mathe\Dropbox\Documentos\CTUP\Aulas\7P - Desenvolvimento de Sistemas Com ASP.NET\Workspace\WingTipToys\WingTipToys\bin\Microsoft.AI.Web.xml
+C:\Users\mathe\Dropbox\Documentos\CTUP\Aulas\7P - Desenvolvimento de Sistemas Com ASP.NET\Workspace\WingTipToys\WingTipToys\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\mathe\Dropbox\Documentos\CTUP\Aulas\7P - Desenvolvimento de Sistemas Com ASP.NET\Workspace\WingTipToys\WingTipToys\bin\Microsoft.ApplicationInsights.xml
+C:\Users\mathe\Dropbox\Documentos\CTUP\Aulas\7P - Desenvolvimento de Sistemas Com ASP.NET\Workspace\WingTipToys\WingTipToys\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\mathe\Dropbox\Documentos\CTUP\Aulas\7P - Desenvolvimento de Sistemas Com ASP.NET\Workspace\WingTipToys\WingTipToys\obj\Debug\WingTipToys.Migrations.Inicial.resources
+C:\Users\mathe\Dropbox\Documentos\CTUP\Aulas\7P - Desenvolvimento de Sistemas Com ASP.NET\Workspace\WingTipToys\WingTipToys\obj\Debug\WingTipToys.Migrations.AddItensVenda.resources
+C:\Users\mathe\Dropbox\Documentos\CTUP\Aulas\7P - Desenvolvimento de Sistemas Com ASP.NET\Workspace\WingTipToys\WingTipToys\obj\Debug\WingTipToys.Migrations.AddTableCliente.resources
+C:\Users\mathe\Dropbox\Documentos\CTUP\Aulas\7P - Desenvolvimento de Sistemas Com ASP.NET\Workspace\WingTipToys\WingTipToys\obj\Debug\WingTipToys.Migrations.UptadeTableClienteAddTelefone.resources
+C:\Users\mathe\Dropbox\Documentos\CTUP\Aulas\7P - Desenvolvimento de Sistemas Com ASP.NET\Workspace\WingTipToys\WingTipToys\obj\Debug\WingTipToys.Migrations.UpdateTableClienteUpdateCarrinhoId.resources
+C:\Users\mathe\Dropbox\Documentos\CTUP\Aulas\7P - Desenvolvimento de Sistemas Com ASP.NET\Workspace\WingTipToys\WingTipToys\obj\Debug\WingTipToys.Migrations.AddTableVenda.resources
+C:\Users\mathe\Dropbox\Documentos\CTUP\Aulas\7P - Desenvolvimento de Sistemas Com ASP.NET\Workspace\WingTipToys\WingTipToys\obj\Debug\WingTipToys.Migrations.UpdateTableVendaAddData.resources
+C:\Users\mathe\Dropbox\Documentos\CTUP\Aulas\7P - Desenvolvimento de Sistemas Com ASP.NET\Workspace\WingTipToys\WingTipToys\obj\Debug\WingTipToys.csproj.GenerateResource.Cache
+C:\Users\mathe\Dropbox\Documentos\CTUP\Aulas\7P - Desenvolvimento de Sistemas Com ASP.NET\Workspace\WingTipToys\WingTipToys\obj\Debug\WingTipToys.dll
+C:\Users\mathe\Dropbox\Documentos\CTUP\Aulas\7P - Desenvolvimento de Sistemas Com ASP.NET\Workspace\WingTipToys\WingTipToys\obj\Debug\WingTipToys.pdb

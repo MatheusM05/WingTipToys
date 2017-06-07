@@ -1,0 +1,66 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="MasterPage.master.cs" Inherits="WingTipToys.Views.MasterPage" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <link href="../Content/bootstrap.css" rel="stylesheet" />
+</head>
+<body>
+    <script src="../Content/bootstrap.min.js"></script>
+    <form id="form1" runat="server">
+        <%--Barra de navegação--%>
+        <nav class="navbar navbar-default">
+            <div class="container-fluid">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <a class="navbar-brand" href="index.aspx">WingTipToys</a>
+                </div>
+                <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                    <ul class="nav navbar-nav">
+                        <li><a href="index.aspx">Home</a></li>
+                        <li><a href="#">Sobre</a></li>
+                        <li><a href="#">Contato</a></li>
+                        <li><a href="listaProdutos.aspx">Produtos</a></li>
+                        <li><a href="carrinhoDeCompras.aspx">Carrinho<img src="/Images/carrinho-compras.png" style="height:18px" /> <span class="badge"><asp:label runat="server" id="lbl_itensCarrinho"/></span></a></li>
+                    </ul>
+                    <ul class="nav navbar-nav navbar-right">
+                        <li><a href="cadastroProduto.aspx">Cadastro Produto</a></li>
+                        <li><a href="cadastroCategoria.aspx">Cadastro Categoria</a></li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+
+        <%--Logo--%>
+        <div style="text-align: center">
+            <img src="../Images/logo.jpg" />
+        </div>
+
+        <%--Lista de Categorias--%>
+        <div style="text-align: center">
+            <asp:ListView runat="server" ID="lst_categorias" ItemType="WingTipToys.Models.Categoria" SelectMethod="lst_categorias_GetData">
+                <ItemTemplate><a href="listaProdutos.aspx?CategoriaId=<%# Item.CategoriaId %>" style="font-size: 18px"><%#: Item.CategoriaNome %></a></ItemTemplate>
+                <ItemSeparatorTemplate>| </ItemSeparatorTemplate>
+
+            </asp:ListView>
+        </div>
+        <%--Conteúdo--%>
+        <div style="padding: 20px 40px; margin: 0 auto">
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+
+        <footer style="text-align: center">
+            <p class="text-primary">&copy; <%: DateTime.Now.Year %></p>
+
+        </footer>
+    </form>
+</body>
+</html>
